@@ -1,4 +1,4 @@
-In-Depth Analysis using Excel to Uncover Hidden Trends in a Large Crowdfunding Campaign Dataset:
+In-Depth Analysis using Excel to Uncover Hidden Trends in a Large Crowdfunding Campaigns Dataset:
 
 Purpose:
 Can be practically utilized for decisons regarding funding if benchmarks within a campaign are met.
